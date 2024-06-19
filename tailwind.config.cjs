@@ -49,8 +49,8 @@ module.exports = {
         },
       },
       fontFamily: {
-        sans: ["Inter Variable", "sans-serif"],
-        heading: ["Inter Variable", "sans-serif"],
+        sans: ["Merriweather", "sans-serif"],
+        heading: ["Merriweather", "sans-serif"],
       },
     },
   },
