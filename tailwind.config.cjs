@@ -23,7 +23,7 @@ module.exports = {
         },
       },
       colors: {
-        primary: colors.indigo,
+        primary: colors.amber,
         info: colors.sky,
         success: colors.teal,
         warning: colors.amber,
